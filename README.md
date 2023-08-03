@@ -2,6 +2,12 @@
 
 Content of this repository is organized as follows...
 
+APPENDIX B: Confusion Matrix Comparison
+The media depicting the Confusion Matrix associated to each model on every attack can be found in the files with the following names:
+  + lv1_confusion_matrix_dt.png, lv1_confusion_matrix_rf.png ,lv1_confusion_matrix_lr.png ,lv1_confusion_matrix_knn.png: ROC curves Label-flipping Attack Level 1
+  + lv2_confusion_matrix_dt.png, lv2_confusion_matrix_rf.png ,lv2_confusion_matrix_lr.png ,lv2_confusion_matrix_knn.png: ROC curves Label-flipping Attack Level 2
+  + lv3_confusion_matrix_dt.png, lv3_confusion_matrix_rf.png ,lv3_confusion_matrix_lr.png ,lv3_confusion_matrix_knn.png: ROC curves Label-flipping Attack Level 3
+
 APPENDIX C: ROC Curve Comparison
 The media depicting the ROC curves associated to each model on every attack can be found in the files with the following names:
   + lv1_roc_dt.png, lv1_roc_rf.png ,lv1_roc_lr.png ,lv1_roc_knn.png: ROC curves Label-flipping Attack Level 1
